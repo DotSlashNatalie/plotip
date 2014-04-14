@@ -1,0 +1,27 @@
+Copyright 2012 - adamsna@datanethost.net, Tim Booth
+
+{ Note from Tim -
+  All files were downloaded from
+  http://code.google.com/p/plotip/ and modified by Tim Booth <tbooth@ceh.ac.uk>
+  to use the V3 Google maps API in December 2012.
+  The above site states that the work is under Apache license 2.0 so
+  I'm putting my additions under the same license.
+  If this is a problem for you, please contact the authors listed above.
+}
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+lib.js is unmodified, (c) 2005-2009 Sam Stephenson and under a MIT-style license 
+- see that file for details

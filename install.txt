@@ -1,0 +1,7 @@
+Ensure you have PHP and MySQL working
+Make a new MySQL user and database
+Edit config.class.php:
+    Change mysql details
+    (You no longer need to do this step) Add Google API V3 key witch you can get from http://code.google.com/apis/maps/signup.html
+Obtain the CSV/XS version of GeoLiteCities database and run load_GLC.sh
+And off you go.
